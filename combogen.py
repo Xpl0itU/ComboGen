@@ -276,8 +276,6 @@ try:
 	time.sleep(2)
 	print(Fore.GREEN + Style.DIM + l1 (u"ࠫࠥࡄࠠࡷࠩࢨ") + l11lll1l + l1 (u"ࠬࠦࡄࡦࡸࡨࡰࡴࡶࡥࡥࠢࡥࡽࠥ࠭ࢩ") + Fore.GREEN + Style.BRIGHT + l1 (u"࠭ࡀࡩࡧࡺ࡬ࡴࡳࡵࡴࡶࡱ࠴ࡹࡨࡥ࡯ࡣࡰࡩࡩ࠭ࢪ") + Style.RESET_ALL + Fore.GREEN + Style.DIM + l1 (u"ࠧࠡࠪࡗࡩࡱ࡫ࡧࡳࡣࡰ࠭࠳࠭ࢫ"))
 	time.sleep(1)
-	print(Fore.GREEN + Style.DIM + l1 (u"ࠨࠢࡁࠤࡋࡵࡲࠡࡗࡳࡨࡦࡺࡥࡴࠢࠩࠤࡒࡵࡲࡦ࠮ࠣࡇ࡭࡫ࡣ࡬ࠢࡲࡹࡹ࠭ࢬ") + Fore.GREEN + Style.BRIGHT + l1 (u"ࠩࠣࡄ࡛ࡵ࡬ࡥࡧࡰࡳࡷࡺࡎࡦࡹࡶࡰࡪࡺࡴࡦࡴࠪࢭ") + Style.RESET_ALL + Fore.GREEN + Style.DIM + l1 (u"ࠪࠤ࡚࠭ࡥ࡭ࡧࡪࡶࡦࡳࠩ࠯ࠩࢮ"))
-	time.sleep(2)
 	l11ll1l(l11lll1l)
 	l1lllll = input(Fore.GREEN + Style.DIM + l1 (u"ࠫࠥࡄࠠࡑࡴࡨࡷࡸࠦࡅ࡯ࡶࡨࡶࠥࡺ࡯ࠡࡅࡲࡲࡹ࡯࡮ࡶࡧ࠱ࠫࢯ") + Style.RESET_ALL)
 	print(Fore.GREEN + Style.DIM + l1 (u"ࠬࡢ࡮ࠡࡀࠣࡐࡴࡧࡤࡪࡰࡪࠤࡐ࡫ࡹࡸࡱࡵࡨࡸ࠴࡜࡯ࠢࡁࠤࡕࡲࡥࡢࡵࡨࠤࡒࡵࡶࡦࠢࡷ࡬ࡪࠦࡋࡦࡻࡺࡳࡷࡪࡳࠡࡈ࡬ࡰࡪࠦࡴࡰࠩࢰ") + Style.BRIGHT + l1 (u"࠭ࠠࡊࡰࡷࡩࡷࡴࡡ࡭ࠢࡖࡸࡴࡸࡡࡨࡧ࠲࡚ࡴࡲࡤࡦ࡯ࡲࡶࡹࡉ࡯࡮࡯ࡸࡲ࡮ࡺࡹ࠰ࡅࡲࡱࡧࡵࡇࡦࡰ࠲ࡏࡪࡿࡷࡰࡴࡧࡷࠬࢱ"))
